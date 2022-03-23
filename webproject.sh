@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "webproject script"
 
 # create and populate the index.html file
