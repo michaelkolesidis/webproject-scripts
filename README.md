@@ -19,6 +19,9 @@ $ ./webproject.sh
 You can also run the script from anywhere in your system by following the instructions found [here](https://stackoverflow.com/questions/56981754/how-to-make-a-programme-executable-anywhere-in-the-shell).
 
 
+## Acknowledgment
+Based on an [idea](https://gist.github.com/hermesjpappas/39d1a340f24416b73a1b545e84d425de) by [Hermes J. Pappas](https://github.com/hermesjpappas)
+
 ## License
 
 Copyright (c) 2022 Michael Kolesidis<br>
