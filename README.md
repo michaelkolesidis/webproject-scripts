@@ -4,6 +4,8 @@
 </div>
 <br>
 
+
+
 ## List
 This is a list with all the scripts included:
 
@@ -17,21 +19,29 @@ This is a list with all the scripts included:
 
 ## Instructions
 
-Place the script in the folder at which you want to create the web project and run the f ollowing command in the terminal to make the script executable:
-
+Place the script in a folder of your choice and run this command to make each script executable:
 ```
 $ chmod +x webproject.sh
 ```
-Then you can simply run the script by double-clicking on it, or with the command:
 
+Open the .bashrc file located in the home folder. It is hidden by default, so you might have to type Ctrl + H in order to make it visible. Then add this line in the end:
 ```
-$ ./webproject.sh
+export PATH=$PATH:~/YOUR/FOLDER
 ```
-You can also run the script from anywhere in your system by following the instructions found [here](https://stackoverflow.com/questions/56981754/how-to-make-a-programme-executable-anywhere-in-the-shell).
+
+Change /YOUR/FOLDER with the path of the folder you have put your scripts in. For instance if you created a folder named scripts located in your come folder, you should write:
+```
+export PATH=$PATH:~/scripts
+```
+
+Then open your terminal and run:
+```
+$ source ~/.bashrc
+```
+
+If everything worked, you will now be able to run the scripts from anywhere in your system! (Note than you don't have to write the $ symbol)
 
 
-## Acknowledgment
-Based on an [idea](https://gist.github.com/hermesjpappas/39d1a340f24416b73a1b545e84d425de) by [Hermes J. Pappas](https://github.com/hermesjpappas)
 
 ## License
 
