@@ -1,11 +1,18 @@
 <div align="center">
   <img src="https://github.com/michaelkolesidis/webproject-script/blob/main/webproject-script-logo.png">
-  <br><br><br>
-  <p>Simple shell scripts for working with webprojects</p>
+  <h4>A collections of simple shell scripts for working with webprojects</h4>
 </div>
+<br>
+
+## List
+This is a list with all the scripts included:
+
+### boilerplate.sh <br>
+A simple shell script for creating a front-end web project file structure and adding the basic files with some boilerplate.<br>
 
 
-A simple shell scripts for creating a front-end web project file structure and adding the basic files with some boilerplate.
+
+
 
 ## Instructions
 
