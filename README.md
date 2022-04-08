@@ -7,10 +7,11 @@
 ## List
 This is a list with all the scripts included:
 
-### boilerplate.sh <br>
-A simple shell script for creating a front-end web project file structure and adding the basic files with some boilerplate.<br>
 
-
+| Script Name | Short for     | Function |
+|-------------|---------------|----------|
+| bp.sh       | boilerplate   | Creates a front-end web project file structure and adds the basic files with some boilerplate. |
+| ga.sh       | git all       | Combines git add, git commit -m "message" and git push. Parses bash arguments and uses them as the commit message. |
 
 
 
