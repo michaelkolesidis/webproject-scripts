@@ -45,6 +45,12 @@ If everything worked, you will now be able to run the scripts from anywhere in y
 
 ## License
 
+If you have any ideas for new scripts or improvements to the existing scripts, feel free to open an issue.
+
+
+
+## License
+
 Copyright (c) 2022 Michael Kolesidis<br>
 Licensed under the [GNU General Public License v3.0](https://github.com/michaelkolesidis/webproject-script/blob/main/LICENSE).
 
