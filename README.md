@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/michaelkolesidis/webproject-script/blob/main/webproject-script-logo.png">
+  <img src="./webproject-script-logo.png">
   <h4>A collections of simple shell scripts for working with webprojects</h4>
 </div>
 <br>
