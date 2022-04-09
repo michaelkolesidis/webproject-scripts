@@ -43,7 +43,7 @@ If everything worked, you will now be able to run the scripts from anywhere in y
 
 
 
-## License
+## Contributing
 
 If you have any ideas for new scripts or improvements to the existing scripts, feel free to open an issue.
 
