@@ -6,6 +6,9 @@
 <br>
 
 
+## Technologies Used
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/bash/bash-original.svg" height="50px" /></a>
+
 
 ## List
 This is a list with all the scripts included:
